@@ -9,6 +9,8 @@ namespace test1
             Console.WriteLine("Hello World!");
 
             // KENDİ YAPTIĞIM DOSYAYI DEPOYA BAĞLAMA VE ATMA
+            // KENDİ YAPTIĞIM DOSYAYI DEPOYA BAĞLAMA VE ATMA 2 DEĞİŞİKŞK 
+
         }
     }
 }
